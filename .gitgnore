@@ -1,0 +1,16 @@
+# Ignore data files
+Data Base/
+
+# Ignore generated plots and images
+Printed Info/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+.venv/
+venv/
+.env/
+env/
